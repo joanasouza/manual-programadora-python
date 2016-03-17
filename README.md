@@ -4,7 +4,7 @@ Bem vinda ao Manual da Programadora Python!
 
 Este material foi desenvolvido para o projeto [Tutoras](http://projetotutoras.com/) e visa ensinar desde os conceitos básicos aos mais avançados de programação na linguagem. Se você não tem nenhum conhecimento em programação mas deseja dar os primeiros passos em direção a isto, este material foi feito para você \o/
 
-Sinta-se livre para copiá-lo, distribuí-lo, editá-lo, mas por favor mantenha os créditos! É interessante saber sobre quem produziu o material e principalemente o porquê.
+Sinta-se livre para copiá-lo, distribuí-lo, editá-lo, mas por favor mantenha os créditos! É interessante saber sobre quem produziu o material e principalmente o porquê.
 
 ## Sobre a autora
 Paula Grangeiro é bacharel em Sistemas de Informação pela Fundação Educacional de Duque de Caxias. Trabalha com desenvolvimento desde 2007, tendo iniciado a carreira com tecnologias Microsoft (ASP clássico, .Net, etc). Em 2012 conheceu Python e se apaixonou pela linguagem :heart: Atualmente, ela entende que linguagens são apenas ferramentas de trabalho e o mais importante é aprender como utilizá-las da melhor maneira possível. Nas horas vagas ela gosta de estudar, participar de projetos sociais e domesticar gatos selvagens com sua vareta mágica.
