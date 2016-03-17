@@ -1,6 +1,6 @@
 # Sumário
 
-* [Introduction](README.md)
+* [Introdução](README.md)
 * O que é uma linguagem de programação
 * História do Python
 * Preparando o ambiente de trabalho
