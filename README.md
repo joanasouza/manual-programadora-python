@@ -7,7 +7,7 @@ Este material foi desenvolvido para o projeto [Tutoras](http://projetotutoras.co
 Sinta-se livre para copiá-lo, distribuí-lo, editá-lo, mas por favor mantenha os créditos! É interessante saber sobre quem produziu o material e principalemente o porquê.
 
 ## Sobre a autora
-Paula Grangeiro é bacharel em Sistemas de Informação pela Fundação Educacional de Duque de Caxias. Trabalha com desenvolvimento desde 2007, tendo iniciado a carreira com tecnologias Microsoft (ASP clássico, .Net, etc). Em 2012 conheceu Python e se apaixonou pela linguagem ``<3`` Atualmente, ela entende que linguagens são apenas ferramentas de trabalho e o mais importante é aprender como utilizá-las da melhor maneira possível. Nas horas vagas ela gosta de estudar, participar de projetos sociais e domesticar gatos selvagens com sua vareta mágica.
+Paula Grangeiro é bacharel em Sistemas de Informação pela Fundação Educacional de Duque de Caxias. Trabalha com desenvolvimento desde 2007, tendo iniciado a carreira com tecnologias Microsoft (ASP clássico, .Net, etc). Em 2012 conheceu Python e se apaixonou pela linguagem :heart: Atualmente, ela entende que linguagens são apenas ferramentas de trabalho e o mais importante é aprender como utilizá-las da melhor maneira possível. Nas horas vagas ela gosta de estudar, participar de projetos sociais e domesticar gatos selvagens com sua vareta mágica.
 
 
 ## Sobre o projeto Tutoras
