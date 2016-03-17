@@ -8,6 +8,6 @@
         }
     },
     "pdf": {
-        "footerTemplate": "<p style='font-size: 10px'>Este tutorial foi gentilmente elaborado por Paula Grangeiro (email:pgrangeiro.dev@gmail.com | GitHub:@pgrangeiro) para utilização nas tutorias do Projeto Tutoras. Saiba mais sobre o projeto em http://projetotutoras.com | https://fb.com/projetotutoras | https://twitter.com/projetotutoras.</p>",
+        "footerTemplate": "Este tutorial foi gentilmente elaborado por Paula Grangeiro (email:pgrangeiro.dev@gmail.com | GitHub:@pgrangeiro) para utilização nas tutorias do Projeto Tutoras. Saiba mais sobre o projeto em http://projetotutoras.com | https://fb.com/projetotutoras | https://twitter.com/projetotutoras."
     }
 }
