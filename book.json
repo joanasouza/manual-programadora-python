@@ -1,10 +1,11 @@
 {
     "plugins": [
-        "layout"
+        "layout",
+        "pdf-styling"
     ],
     "pluginsConfig": {
         "layout": {
-            "footerPath" : "layouts/footer.html"
+            "footerPath": "layouts/footer.html"
         }
     },
     "pdf": {
