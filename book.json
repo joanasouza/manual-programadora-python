@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "layout",
-        "pdf-styling"
+        "layout"
     ],
     "pluginsConfig": {
         "layout": {
