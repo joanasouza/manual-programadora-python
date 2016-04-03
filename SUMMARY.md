@@ -4,6 +4,7 @@
 * O que é uma linguagem de programação
 * História do Python
 * Preparando o ambiente de trabalho
+* Introdução à linha de comando
 * Desenvolvendo lógica de programação
    * Variáveis
        * Tipos básicos
