@@ -3,7 +3,7 @@ Para iniciarmos nossos estudos, será necessário instalar o Python. Neste tutor
 
 ## Instalando Python
 Dependendo do seu sistema operacional, o Python pode ser obtido de diversas maneiras. Nesta parte do guia vamos aprender à instalar o Python nos seguintes sistemas operacionais:
-* [Windows](###Windows)
+* [Windows](#Windows)
 * Linux
 * OS X
 
