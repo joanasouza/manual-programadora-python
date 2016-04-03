@@ -36,4 +36,5 @@
    * Metaclasses
 * Arquitetura de Software
    * DDD
+* Referências
 
