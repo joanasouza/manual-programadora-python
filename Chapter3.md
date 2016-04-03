@@ -6,7 +6,7 @@ Dependendo do seu sistema operacional, o Python pode ser obtido de diversas mane
 
 ### Windows
 Para instalar o Python no Windows, é preciso que você faça o download da última versão disponível no site do Python Software Foundation, clicando [aqui](https://www.python.org/downloads/windows/). Procure por um link onde estará indicando a última versão do Python 3, algo como _Latest Python 3 Release_. Você será redirecinada para uma página com um resumo das últimas novidades da linguagem e ao final, com os links para download. Faça o download do arquivo de instalação de acordo com o seu sistema operacional: se você utiliza um Windows 64 bits, procure por _Windows x86-64 executable installer_, ou para versões 32 bits do Windows, _Windows x86 executable installer_.
-![Arquivos de Instalação do Python para Windows no site do Python Software Foundation](Captura de tela de 2016-04-03 17-21-35.png)
+![Arquivos de Instalação do Python para Windows no site do Python Software Foundation](images/python-executable-download-for-windows.png)
 
 
 
