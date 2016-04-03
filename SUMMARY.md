@@ -1,4 +1,4 @@
-# Sumário
+# Summary
 
 * [Introdução](README.md)
 * O que é uma linguagem de programação
@@ -36,5 +36,5 @@
    * Metaclasses
 * Arquitetura de Software
    * DDD
-* Referências
+* [Referências](BIBLIOGRAPHY.md)
 
