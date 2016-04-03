@@ -7,6 +7,6 @@ Além disso, é recomendável a instalação de uma IDE. IDEs são editores de t
 Neste tutorial iremos utilizar a versão 3 da linguagem, o Python 3. Existem algumas diferenças entre o Python 2 e o Python 3, por isso, mesmo que você já possua uma versão do Python 2 instalada na sua máquina, recomendamos fortemente que você instale o Python 3.
 
 Dependendo do seu sistema operacional, o Python pode ser obtido de diversas maneiras. Nesta guia vamos aprender à instalar o Python nos seguintes sistemas operacionais:
-* Linux
-* Windows
-* OS X
+* [Linux](Chapter4-1.md)
+* [Windows](Chapter4-2.md)
+* [OS X](Chapter4-3.md)
