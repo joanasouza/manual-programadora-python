@@ -3,7 +3,7 @@
 * [Introdução](README.md)
 * O que é uma linguagem de programação
 * História do Python
-* [Preparando o ambiente de trabalho](Chapter3.md)
+* Preparando o ambiente de trabalho
 * Desenvolvendo lógica de programação
    * Variáveis
        * Tipos básicos
@@ -24,6 +24,7 @@
        * Unitest
        * Py.test
 * Utilizando Python para desenvolvimento Web
+   * Ambientes virtuais
    * Django
        * Admin
        * Forms
