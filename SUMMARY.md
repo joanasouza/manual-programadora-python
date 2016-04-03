@@ -3,8 +3,8 @@
 * [Introdução](README.md)
 * O que é uma linguagem de programação
 * História do Python
-* Preparando o ambiente de trabalho
 * Introdução à linha de comando
+* Preparando o ambiente de trabalho
 * Desenvolvendo lógica de programação
    * Variáveis
        * Tipos básicos
