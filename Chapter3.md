@@ -12,3 +12,11 @@ Chamada de _Prompt de Comando_ no Windows, para acessá-la basta ir em _Iniciar 
 Conhecida como _Terminal_ em boa parte das distribuições Linux, a sua interface pode ser acessada em diferentes locais dependendo da interface gráfica da sua distribuição. Em distribuições com Gnome como interface gráfica, o Terminal pode ser acessado em _Atividades > Mostrar Aplicativos > Terminal_. Em distribuições com KDE como interface gráfica, o Terminal provavelmente será encontrado em _Aplicativos > Acessórios > Terminal_.
 ### Mac OS X
 Conhecida como _Terminal_ no Mac OS X, ela pode ser encontrada em _Aplicativos > Utilitários > Terminal_.
+## Comandos Básicos
+Existem diversos comandos para executar as mais diversas ações na linha de comando. Não se preocupe em memorizar todos, pois é praticamente impossível! Abaixo, seguem alguns comandos básicos que utilizaremos no dia-a-dia e em caso de dúvida não tenha vergonha de recorrer ao Google ;)
+
+### Acessar uma pasta
+Ao abrir a linha de comando, ela estará sendo executada em um determinado diretório (geralmente a sua pasta de usuário). Para acessar outra pasta, basta digitar:
+```sh
+cd Diretorio/Pasta
+```
