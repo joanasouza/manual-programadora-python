@@ -1,7 +1,7 @@
 # Summary
 
 * [Introdução](README.md)
-* O que é uma linguagem de programação
+* [O que é uma linguagem de programação](Chapter1.md)
 * História do Python
 * [Introdução à linha de comando](Chapter3.md)
 * [Preparando o ambiente de trabalho](Chapter4.md)
