@@ -25,7 +25,7 @@ Para instalar o Python em distribuições Red Hat, como o CentOS ou o Fedora, ba
 sudo dnf install python3
 ```
 #### Distribuições Debian
-Para instalar o Python em distribuições Debian, como o Debian ou o Ubunto, basta abrir o terminal e digitar:
+Para instalar o Python em distribuições Debian, como o Debian ou o Ubuntu, basta abrir o terminal e digitar:
 ```sh
 sudo apt-get install python3
 ```
