@@ -80,3 +80,19 @@ Ou caso você esteja utilizando o Windows:
 rmdir /S <nome_da_pasta>
 ```
 ![Removendo a pasta djangogirls terminantemente](/images/cmd-rm.png)
+
+
+
+---
+
+# Exercícios
+1. Crie uma pasta chamada _python_ no seu atual diretório.
+2. Entre na pasta _python_.
+3. Crie uma pasta chamada _Projeto_ dentro da pasta _python_ e entre nela.
+4. Crie um arquivo chamado _home.txt_ dentro da pasta _Projeto_. Não tenha vergonha de pesquisar no Google!
+5. Liste o conteúdo da pasta _Projeto_.
+6. Estando na pasta _Projeto_, suba uma pasta.
+6. Exclua a pasta _Projeto_.
+7. Consegue descobrir qual é o seu diretório atual? Utilize o comando respectivo para esta ação.
+8. Suba um nível e exclua a pasta _python_.
+
