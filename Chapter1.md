@@ -1,4 +1,10 @@
 # O que é uma linguagem de programação?
 É incrível acreditar que por mais complexas que sejam as tarefas realizadas por um computador, elas não passam de um conjunto de 0 e 1 para a máquina. 0 quando não existe corrente elétrica no circuito e 1 quando existe corrente elétrica no circuito. O processador possui milhões de nano chaves, chamadas transistors, que ligam e desligam reagindo à corrente. Essas chaves, por sua vez, são dispostas em conjuntos de micro circuitos, chamados circuitos lógicos, que interpretam 0 e 1 como informações lógicas um pouco mais complexas, AND, NOT, OR, para ajudar em operações básicas. Com a ajuda dos transistors e outras microscópicas unidades, o processador é capaz de realizar operações como mover a informação 1101000101100011 para o endereço de memória 1111001010100111.
 
-E se tivéssemos que escrever programas inteiros apenas em 0 e 1 para que pudessem ser compreendidos pelo computador? Graças à muitas pessoas a nossa tarefa de programar não é tão árdua hoje em dia.
+E se tivéssemos que escrever programas inteiros utilizando apenas 0 e 1 para que pudessemos ser compreendidos pelo computador? Graças à muitas pessoas a nossa tarefa de programar não é tão árdua hoje em dia.
+
+
+## A primeira programadora
+![Ada Lovelace](/images/ada-lovelace.png)
+
+Ada Augusta King, a Condessa de Lovelace, nascida em Londres, 10 de dezembro de 1815, é considerada a primeira programadora da história. Sua mãe a incentivou no aprendizado da matemática para tentar afastá-la de seu pai, poeta inveterado que abandonou a família depois do nascimento da pequena Ada. Na juventude, ela desenvolveu uma amizade com o também matemático e filosófo Charles Babbage. Ela desenvolveu diversos algoritmos para serem computados pela máquina analítica, um dos grandes inventos de Babbage, considerado o primeiro computador da história. Em 1953, mais de cem anos depois de sua morte, suas notas sobre a máquina analítica foram republicadas e reconhecidas como a primeira descrição de um hardware e software.
