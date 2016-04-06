@@ -1,6 +1,6 @@
 # Referências Bibliográficas
 
-Este tutorial possui as seguintes referências bibliográficas, organizadas alfabeticamente:
+Este tutorial possui as seguintes referências bibliográficas  organizadas alfabeticamente:
 
 * [Guia do Hardware](http://www.hardware.com.br/)
   * [Como computadores representam informação](http://www.hardware.com.br/tutoriais/como-computadores-representam-informacao/representando-zeros-uns-eletronicamente.html)
