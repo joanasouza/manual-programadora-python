@@ -1,5 +1,7 @@
 # Referências Bibliográficas
 
+Este tutorial possui as seguintes referências bibliográficas, organizadas algabeticamente:
+
 * [Guia do Hardware](http://www.hardware.com.br/)
   * [Como computadores representam informação](http://www.hardware.com.br/tutoriais/como-computadores-representam-informacao/representando-zeros-uns-eletronicamente.html)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/)
