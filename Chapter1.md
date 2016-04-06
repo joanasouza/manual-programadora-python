@@ -4,7 +4,7 @@
 E se tivéssemos que escrever programas inteiros utilizando apenas 0 e 1 para que pudessemos ser compreendidos pelo computador? Computadores não entendem nada além de dados, endereços e operações básicas em binário, mas através das linguagens de programação somos capazes de criar programas de uma maneira mais conveniente para nós humanos. Uma linguagem de programação é definida por um conjunto de regras semânticas e sintáticas, mais próximas da nossa linguagem natural, que com a ajuda de um compilador são transformadas em instruções mais simples que podem ser compreendidas pelo computador.
 
 ## A primeira programadora
-![Ada Lovelace](/images/ada-lovelace.png)
+![Ada Lovelace](/images/ada.png)
 
 Ada Augusta King, a Condessa de Lovelace, nascida em Londres, 10 de dezembro de 1815, é considerada a primeira programadora da história. Sua mãe a incentivou no aprendizado da matemática para tentar afastá-la de seu pai, poeta inveterado que abandonou a família depois do nascimento da pequena Ada. Na juventude, ela desenvolveu uma amizade com o também matemático e filosófo Charles Babbage. Ela desenvolveu diversos algoritmos para serem computados pela máquina analítica, um dos grandes inventos de Babbage, considerado o primeiro computador da história. Em 1953, mais de cem anos depois de sua morte, suas notas sobre a máquina analítica foram republicadas e reconhecidas como a primeira descrição de um hardware e software.
 
@@ -18,4 +18,4 @@ Graças ao seu trabalho foi-se possível criar linguagens de programação de al
 
 ![Grace Hopper](/images/grace-hopper.jpg)
 
-Grace Murray Hopper nasceu em Nova Iorque, 9 de dezembro de 1906. Serviu às forças armadas americanas e foi analista de sistemas da Marinha dos Estados Unidos e depois condecorada como almirante. Depois de concluir seus serviços às forças armardas, tornou-se empregada da Eckert-Mauchly Computer e participou da equipe de desenvolvimento do UNIVAC I, o primeiro computador comercial da história. Foi ela quem criou a linguagem de programação Flow-Matic que serviu como base para a criação do COBOL, linguagem que ainda hoje é amplamente utilizada em sistemas críticos (como bancários, por exemplo).
+Grace Murray Hopper nasceu em Nova Iorque, 9 de dezembro de 1906. Serviu às forças armadas americanas e foi analista de sistemas da Marinha dos Estados Unidos e depois condecorada como almirante. Depois de concluir seus serviços às forças armardas, tornou-se empregada da Eckert-Mauchly Computer e participou da equipe de desenvolvimento do UNIVAC I, o primeiro computador comercial da história. Foi ela quem criou a linguagem de programação Flow-Matic que serviu como base para a criação do COBOL, linguagem que ainda hoje é amplamente utilizada em sistemas críticos, como sistemas de operações bancárias, por exemplo).
